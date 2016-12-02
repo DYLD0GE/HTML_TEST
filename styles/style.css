@@ -1,0 +1,26 @@
+h1 {
+    border: 1px solid black;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+     text-shadow: 3px 3px 1px crimson;
+     margin: 0;
+}
+html {
+  font-size: 13px;
+  font-family: 'Bungee', cursive;
+  background-color: #903B3B;
+}
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 20px 20px 20px 20px;
+  border: 5px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  padding-top: 20px
+
+}
